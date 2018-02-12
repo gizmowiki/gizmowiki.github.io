@@ -16,7 +16,7 @@ I am **Rahul Pandey**, a first term PhD student in Information Technology with t
 
 Currently, I am a Graduate Research Assistant at [Humanitarian and Social Informatics Lab](http://ist.gmu.edu/~hpurohit/humanitarian-informatics-lab.html), [Volgenau School of Engineering](https://volgenau.gmu.edu/) in [George Mason University](https://www2.gmu.edu/). My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/). 
 
-I am _passionate_ about using **Machine Learning** to understand humans' intent and behavior and apply those understandings across various domain to make world a better place. My research interests is a amalgam of **Social Computing, Intent Mining, Web Mining** across different modalities not limited to _text/image/video_ etc.   
+I am _passionate_ about using _Machine Learning_ to understand humans' intent and behavior and apply those understandings across various domain to make world a better place. My research interests is a amalgam of _Social Computing, Intent Mining, Web Mining and Behavior Modeling_ across different modalities not limited to _text/image/video_ etc.   
 
 * * *
 
