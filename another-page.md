@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Oops :(
 
-_yay_
+_Sorry, Google Scholar hasn't been setup yet! Check back later (:_
 
 [back](./)

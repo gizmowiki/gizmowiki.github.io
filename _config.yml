@@ -1,5 +1,11 @@
-title: <img src="../mypic.jpeg" alt="" width="80%" /><br>Rahul Pandey
-description: PhD IT (2018-Present)<br>George Mason University <hr>Social Computing | Intent Modeling | Natural Language Understanding
+front_image: ../mypic.jpeg
+resume: ../Rahul_Pandey_Resume.pdf
+title: Rahul Pandey
+title_temp: Rahul Pandey
+description: PhD IT (2018-Present)
+university: George Mason University
+area: Social Computing | Intent Modeling | Natural Language Understanding
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+scholar_url: another-page.html

@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## [](#header-2)Hello!
+I am **Rahul Pandey**, a first term PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. I have a 7 month work experience as a _Data Scientist_ in **Culture Machine Media**, Pune, IN. Apart from that I have done multiple internships during my bachelors in some of the reputed organisations like 
+>STARS Lab, INRIA France
 
-[Link to another page](another-page).
+>INMAS Lab, D.R.D.O. Delhi
 
-There should be whitespace between paragraphs.
+>HSIL Lab, George Mason University
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+>Kritikal Solutions
 
-# [](#header-1)Header 1
+>Culture Machine Media 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Currently I am a Graduate Research Assistant at [Humanitarian and Social Informatics Lab](http://ist.gmu.edu/~hpurohit/humanitarian-informatics-lab.html), [Volgenau School of Engineering](https://volgenau.gmu.edu/), [George Mason University](https://www2.gmu.edu/). My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/). 
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+### [](#header-3)Current Projects
+```python
+project1 = "Social Construction of Sexual Assault in Social Media: Modeling Policy-relevant User Intent on Twitter"
+``` 
+<!-- Learning to rank twitter data for intent classification
+Modeling user intent to help Fire and Rescue department of the state -->
+### [](#header-3)Past Projects
+```python
+project1 = "Generic Architecture of a Social Media-driven Intervention Support System for Smart Cities"
+project2 = "People Detection on depth maps only for activity recognition of patients suffering from Alzheimer disease"
 ```
 
+### [](#header-3)Contact me!
+```python
+You can reach me at user_name@institute.edu
+user_name = "rpandey4"
+institute = "gmu"
 ```
-The final element.
-```
+* * *
+_PS: I love python_
