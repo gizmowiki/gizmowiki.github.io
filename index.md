@@ -45,15 +45,12 @@ def project_2():
   project_name = "Ranking of Social Media Alerts with Workload Bounds in Emergency Operation Centers"
   paper_type = "full paper"
   conference_submitted = "Web Intelligence 2018"
-def project_3():
-  project_name = "CitizenHelper-Adaptive: Expert-augmented Streaming Analytics System for Emergency Services and Humanitarian Organizations"
-  paper_type = "demo paper"
-  conference_submitted = "ASONAM 2018"
 ```
 <!-- Learning to rank twitter data for intent classification
 Modeling user intent to help Fire and Rescue department of the state -->
 ### [](#header-3)Past Projects
 ```python
+project_4 = "CitizenHelper-Adaptive: Expert-augmented Streaming Analytics System for Emergency Services and Humanitarian Organizations"
 project_3 = "Social-EOC: Serviceability Model to Rank Social Media Requests for Emergency Operation Centers"
 project_2 = "Generic Architecture of a Social Media-driven Intervention Support System for Smart Cities"
 project_1 = "People Detection on depth maps only for activity recognition of patients suffering from Alzheimer disease"
