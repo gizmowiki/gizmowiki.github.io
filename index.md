@@ -8,7 +8,11 @@ I am **Rahul Pandey**, first term PhD student in Information Technology with the
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
 ### [](#header-3) Recent News
->**[June 2018]** One demo paper co-authored with Prof Purohit got accepted in [ASONAM 2018](http://asonam.cpsc.ucalgary.ca/2018/){:target="_blank"} conference.
+>**[August 2018]** One full paper got accepted in [AAAI FALL SYMPOSIUM SERIES 2018](https://aaai.org/Symposia/Fall/fss18.php){:target="_blank"} under _Artificial Intelligence in Government and Public Sector_ track.
+
+>**[July 2018]** Attended my first conference [SBP-BRiMS 2018](http://sbp-brims.org/2018/){:target="_blank"}. Lots of learning and interacted with great people in the community.
+
+>**[July 2018]** One demo paper co-authored with Prof Purohit got accepted in [ASONAM 2018](http://asonam.cpsc.ucalgary.ca/2018/){:target="_blank"} conference.
 
 >**[June 2018]** One full paper got accepted in [ASONAM 2018](http://asonam.cpsc.ucalgary.ca/2018/){:target="_blank"} conference.
 
