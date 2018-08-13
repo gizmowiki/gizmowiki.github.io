@@ -4,6 +4,7 @@ layout: default
 
 ## Publications :
 
+#### [View Google Scholar](https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en)
 #### 2018
 1. [CitizenHelper-Adaptive : Expert-augmented Streaming Analytics System for Emergency Services and Humanitarian Organizations](./publications.html)
 

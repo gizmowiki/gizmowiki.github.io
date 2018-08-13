@@ -32,10 +32,16 @@
 
         {% if site.show_downloads %}
           <ul>
-            <li><a target="_blank" href={{ site.linkedin }}>View <strong>LinkedIn</strong></a></li>
-            <li><a target="_blank" href="{{ site.scholar_url }}">View <strong>Publications</strong></a></li>
+            <li><a target="_blank" href={{ site.resume }}>View <strong>Resume</strong></a></li>
+            <li><a href="{{ site.scholar_url }}">View <strong>Publications</strong></a></li>
             <!-- <li><a target="_blank" href="{{ site.github.owner_url }}">View <strong>GitLab</strong></a></li> -->
             <li><a target="_blank" href={{ site.gitlab }}>View <strong>GitLab</strong></a></li>
+          </ul>
+          <ul>
+            <li><a target="_blank" href={{ site.tw }}><img src=../tw.png alt="" width="35%" /></a></li>
+            <li><a target="_blank" href={{ site.in }}><img src=../in.png alt="" width="35%" /></a></li>
+            <!-- <li><a target="_blank" href="">View <strong>GitLab</strong></a></li> -->
+            <li><a target="_blank" href={{ site.fb }}><img src=../fb.png alt="" width="30%" /></a></li>
           </ul>
         {% endif %}
       </header>
