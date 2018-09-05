@@ -3,18 +3,20 @@ layout: default
 ---
 
 ## [](#header-2)Hello!
-I am **Rahul Pandey**, first term PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Social Computing, Intent Mining, Web Mining and Behavior Modeling_ across different modalities including but not limited to _text, images, videos_ etc.   
+I am **Rahul Pandey**, first year PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Social Computing, Intent Mining, Web Mining and Behavior Modeling_ across different modalities including but not limited to _text, images, videos_ etc.   
 
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
 ### [](#header-3) Recent News
+>**[August 2018]** Two full paper got accepted in [Web Intelligence 2018](https://webintelligence2018.com/index.html){:target="_blank"} conference.
+
 >**[August 2018]** One full paper got accepted in [AAAI FALL SYMPOSIUM SERIES 2018](https://aaai.org/Symposia/Fall/fss18.php){:target="_blank"} under _Artificial Intelligence in Government and Public Sector_ track.
 
 >**[July 2018]** Attended my first conference [SBP-BRiMS 2018](http://sbp-brims.org/2018/){:target="_blank"}. Lots of learning and interacted with great people in the community.
 
 >**[July 2018]** One demo paper co-authored with Prof Purohit got accepted in [ASONAM 2018](http://asonam.cpsc.ucalgary.ca/2018/){:target="_blank"} conference.
 
->**[June 2018]** One full paper got accepted in [ASONAM 2018](http://asonam.cpsc.ucalgary.ca/2018/){:target="_blank"} conference.
+>**[June 2018]** One full paper got accepted in [ASONAM 2018](http://asonam.cpsc.ucalgary.ca/2018/){:target="_blank"} conference (Acceptance Rate: 15%).
 
 >**[May 2018]** Continuing my Research Assistantship at HSIL Lab this summer!
 
@@ -42,18 +44,16 @@ I have a 7-month work experience as a _Data Scientist_ in **Culture Machine Medi
 ### [](#header-3)Current Projects
 ```python
 def project_1():
-  project_name = "Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"
-  paper_type = "full paper"
-  conference_submitted = "Web Intelligence 2018"
-def project_2():
-  project_name = "Ranking of Social Media Alerts with Workload Bounds in Emergency Operation Centers"
-  paper_type = "full paper"
-  conference_submitted = "Web Intelligence 2018"
+    project_name = "Pragmatic Transfer Learning of pre-trained word and sense representation for domain-specific text analytics"
+    paper_type = "full paper"
+    target = "Journal of Web Semantics (JWS) Elsevier"
 ```
 <!-- Learning to rank twitter data for intent classification
 Modeling user intent to help Fire and Rescue department of the state -->
 ### [](#header-3)Past Projects
 ```python
+project_6 = "Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"
+project_5 = "Ranking of Social Media Alerts with Workload Bounds in Emergency Operation Centers"
 project_4 = "CitizenHelper-Adaptive: Expert-augmented Streaming Analytics System for Emergency Services and Humanitarian Organizations"
 project_3 = "Social-EOC: Serviceability Model to Rank Social Media Requests for Emergency Operation Centers"
 project_2 = "Generic Architecture of a Social Media-driven Intervention Support System for Smart Cities"
@@ -67,4 +67,4 @@ user_name = "rpandey4"
 institute = "gmu"
 ```
 * * *
-_PS: I love python :)_
+_PS: I love python and I adore Java :)_
