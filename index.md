@@ -44,9 +44,7 @@ I have a 7-month work experience as a _Data Scientist_ in **Culture Machine Medi
 ### [](#header-3)Current Projects
 ```python
 def project_1():
-    project_name = "Pragmatic Transfer Learning of pre-trained word and sense representation for domain-specific text analytics"
-    paper_type = "full paper"
-    target = "Journal of Web Semantics (JWS) Elsevier"
+    project_name = "Efficient word and sense representation for crisis data"
 ```
 <!-- Learning to rank twitter data for intent classification
 Modeling user intent to help Fire and Rescue department of the state -->
