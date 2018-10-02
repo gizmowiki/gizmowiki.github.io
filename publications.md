@@ -8,11 +8,11 @@ layout: default
 #### 2018
 8. [Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults](./publications.html)
 
-	**Rahul Pandey**, Hemant Purohit, Bonnie Stabile, Aubrey Grant. 2018. In Proceedings of 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI’18).
+	**Rahul Pandey**, Hemant Purohit, Bonnie Stabile, Aubrey Grant. 2018. *(To appear)* In Proceedings of 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI’18).
 
 7. [Ranking of Social Media Alerts with Workload Bounds in Emergency Operation Centers](https://arxiv.org/pdf/1809.08489.pdf){:target="_blank"}
 
-	Hemant Purohit, Carlos Castillo, Muhammad Imran, **Rahul Pandey**. 2018. In Proceedings of 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI’18).
+	Hemant Purohit, Carlos Castillo, Muhammad Imran, **Rahul Pandey**. 2018. *(To appear)* In Proceedings of 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI’18).
 
 	[\[arXiv pre-print\]](https://arxiv.org/abs/1809.08489){:target="_blank"}
 
