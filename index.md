@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## [](#header-2)Hello!
-I am **Rahul Pandey**, first year PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Social Computing, Intent Mining, Web Mining and Behavior Modeling_ across different modalities including but not limited to _text, images, videos_ etc.   
+I am **Rahul Pandey**, first year PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Social Computing, Intent Mining, Web Mining, and Behavior Modeling_ across different modalities including but not limited to _text, images, videos,_ etc.   
 
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
@@ -50,8 +50,9 @@ def project_1():
 Modeling user intent to help Fire and Rescue department of the state -->
 ### [](#header-3)Past Projects
 ```python
-project_6 = "Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"
-project_5 = "Ranking of Social Media Alerts with Workload Bounds in Emergency Operation Centers"
+project_7 = "Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"
+project_6 = "Ranking of Social Media Alerts with Workload Bounds in Emergency Operation Centers"
+project_5 = "AI for Trustworthiness! Credible User Identification on Social Web for Disaster Response Agencies"
 project_4 = "CitizenHelper-Adaptive: Expert-augmented Streaming Analytics System for Emergency Services and Humanitarian Organizations"
 project_3 = "Social-EOC: Serviceability Model to Rank Social Media Requests for Emergency Operation Centers"
 project_2 = "Generic Architecture of a Social Media-driven Intervention Support System for Smart Cities"
