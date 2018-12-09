@@ -8,9 +8,14 @@ I am **Rahul Pandey**, first year PhD student in Information Technology with the
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
 ### [](#header-3) Recent News
+>**[December 2018]** Received **Best Paper Award** for paper _"Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"_ at [Web Intelligence 2018](https://webintelligence2018.com/index.html){:target="_blank"} conference.
+
+>**[October 2018]** Presented our paper at [2018 AAAI FALL SYMPOSIUM SERIES](https://aaai.org/Symposia/Fall/fss18.php){:target="_blank"}. Thrilled about the ongoing work on bias detection and mitigation at government agencies and also at IBM Research.
+
+
 >**[August 2018]** Two full paper got accepted in [Web Intelligence 2018](https://webintelligence2018.com/index.html){:target="_blank"} conference.
 
->**[August 2018]** One full paper got accepted in [AAAI FALL SYMPOSIUM SERIES 2018](https://aaai.org/Symposia/Fall/fss18.php){:target="_blank"} under _Artificial Intelligence in Government and Public Sector_ track.
+>**[August 2018]** One full paper got accepted in [2018 AAAI FALL SYMPOSIUM SERIES](https://aaai.org/Symposia/Fall/fss18.php){:target="_blank"} under _Artificial Intelligence in Government and Public Sector_ track.
 
 >**[July 2018]** Attended my first conference [SBP-BRiMS 2018](http://sbp-brims.org/2018/){:target="_blank"}. Lots of learning and interacted with great people in the community.
 

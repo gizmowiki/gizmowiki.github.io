@@ -6,7 +6,7 @@ layout: default
 
 #### [View Google Scholar](https://scholar.google.com/citations?user=fKMSzz0AAAAJ&hl=en){:target="_blank"}
 #### 2018
-8. [Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults](https://arxiv.org/pdf/1810.01012.pdf){:target="_blank"}
+8. [🏆 Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults](https://arxiv.org/pdf/1810.01012.pdf){:target="_blank"}
 
 	**Rahul Pandey**, Hemant Purohit, Bonnie Stabile, Aubrey Grant. 2018. *(To appear)* In Proceedings of 2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI’18).
 
@@ -28,9 +28,13 @@ layout: default
 
 	**Rahul Pandey** and Hemant Purohit. 2018. In Proceedings of 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM).
 
+	[\[IEEE Xplore\]](https://doi.org/10.1109/ASONAM.2018.8508374){:target="_blank"}
+
 4. [Social-EOC: Serviceability Model to Rank Social Media Requests for Emergency Operation Centers](http://chato.cl/papers/purohit_castillo_imran_pandey_2018_social_eoc_social_media_emergency_operation_center.pdf){:target="_blank"}
 
 	Hemant Purohit, Carlos Castillo, Muhammad Imran, **Rahul Pandey**. 2018. In Proceedings of 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM).  
+
+	[\[IEEE Xplore\]](https://doi.org/10.1109/ASONAM.2018.8508709){:target="_blank"}
 
 3. [Intent Mining for the Good, Bad & Ugly Use of Social Web: Concepts, Methods, and Challenges](http://ist.gmu.edu/~hpurohit/informatics-lab/papers/snam-chapter-intent-FINAL.pdf)
 
@@ -50,3 +54,5 @@ layout: default
 
 
 [back](./)
+
+🏆_Best Paper Award_
