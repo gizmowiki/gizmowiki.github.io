@@ -42,7 +42,7 @@ layout: default
 
 	[\[Springer\]](https://doi.org/10.1007/978-3-319-94105-9_1){:target="_blank"}
 
-2. [Modeling Policy-relevant Intent related to Gender Violence Myths on Social Media using Social Construction Theory](http://ist.gmu.edu/~hpurohit/informatics-lab/papers/modeling-gbv-policy-intent-ic2s218.pdf){:target="_blank"}
+2. [Modeling Policy-relevant Intent related to Gender Violence Myths on Social Media using Social Construction Theory](http://mason.gmu.edu/~rpandey4/modeling-gbv-policy-intent-ic2s218.pdf){:target="_blank"}
 
 	Hemant Purohit, Bonnie Stabile, Aubrey Grant, **Rahul Pandey**. 2018. in 4th International Conference on Computational Social Science (IC<sup>2</sup>S<sup>2</sup>).
 
