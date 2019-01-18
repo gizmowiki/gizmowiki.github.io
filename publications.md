@@ -56,5 +56,3 @@ layout: default
 
 
 [back](./)
-
-🏆_Best Paper Award_

@@ -44,16 +44,16 @@ I have a 7-month work experience as a _Data Scientist_ in **Culture Machine Medi
 
 
 
-* * *
+<!-- * * *
 
 ### [](#header-3)Current Projects
 ```python
 def project_1():
     project_name = "Efficient word and sense representation for crisis data"
-```
+``` -->
 <!-- Learning to rank twitter data for intent classification
 Modeling user intent to help Fire and Rescue department of the state -->
-### [](#header-3)Past Projects
+<!-- ### [](#header-3)Past Projects
 ```python
 project_7 = "Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"
 project_6 = "Ranking of Social Media Alerts with Workload Bounds in Emergency Operation Centers"
@@ -62,7 +62,7 @@ project_4 = "CitizenHelper-Adaptive: Expert-augmented Streaming Analytics System
 project_3 = "Social-EOC: Serviceability Model to Rank Social Media Requests for Emergency Operation Centers"
 project_2 = "Generic Architecture of a Social Media-driven Intervention Support System for Smart Cities"
 project_1 = "People Detection on depth maps only for activity recognition of patients suffering from Alzheimer disease"
-```
+``` -->
 
 ### [](#header-3)Contact me!
 ```python
@@ -71,4 +71,7 @@ user_name = "rpandey4"
 institute = "gmu"
 ```
 * * *
-_PS: I love python and I adore Java :)_
+
+### [[Publications]](./publications)
+
+_PS: I love python :)_
