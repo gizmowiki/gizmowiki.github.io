@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## [](#header-2)Hello!
-I am **Rahul Pandey**, first year PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Social Computing, Intent Mining, Web Mining, and Behavior Modeling_ across different modalities including but not limited to _text, images, videos,_ etc.   
+I am **Rahul Pandey**, second year PhD student in Information Technology with the concentration in Information Science and Technology. I have done my bachelors with _Computer Science_ major from **The LNMIIT**, Jaipur, IN from _2013-17_. My research interests lie in the _intersection_ of _Machine Learning_ and _Semantic understandings of intents and behaviors_ and apply that across domains to solve complex human-centered problems. It is an amalgam of _Social Computing, Intent Mining, Web Mining, and Behavior Modeling_ across different modalities including but not limited to _text, images, videos,_ etc.   
 
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
