@@ -8,6 +8,9 @@ I am **Rahul Pandey**, second year PhD student in Information Technology with th
 Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Informatics Lab](http://ist.gmu.edu/~hpurohit/informatics-lab.html){:target="_blank"}, [Volgenau School of Engineering](https://volgenau.gmu.edu/){:target="_blank"} in [George Mason University](https://www2.gmu.edu/){:target="_blank"}. My advisor is [Dr Hemant Purohit](http://ist.gmu.edu/~hpurohit/){:target="_blank"}.
 
 ### [](#header-3) Recent News
+
+>**[January 2019]** One full paper got accepted under Tools track at [ISCRAM 2019](https://iscram2019.webs.upv.es){:target="_blank"} conference.
+
 >**[December 2018]** Received **Best Paper Award** for paper _"Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"_ at [Web Intelligence 2018](https://webintelligence2018.com/index.html){:target="_blank"} conference.
 
 >**[October 2018]** Presented our paper at [2018 AAAI FALL SYMPOSIUM SERIES](https://aaai.org/Symposia/Fall/fss18.php){:target="_blank"}. Thrilled about the ongoing work on bias detection and mitigation at government agencies and also at IBM Research.
@@ -64,6 +67,9 @@ project_2 = "Generic Architecture of a Social Media-driven Intervention Support 
 project_1 = "People Detection on depth maps only for activity recognition of patients suffering from Alzheimer disease"
 ``` -->
 
+### [](#header-3)Publications
+_Click here to view_ __*[Publications](./publications)*__
+
 ### [](#header-3)Contact me!
 ```python
 You can reach me at user_name@institute.edu
@@ -72,6 +78,4 @@ institute = "gmu"
 ```
 * * *
 
-### [[Publications]](./publications)
-
-_PS: I love python :)_
+![](all_org.png)
