@@ -40,7 +40,7 @@ layout: default
 	[\[IEEE Xplore\]](https://doi.org/10.1109/ASONAM.2018.8508709){:target="_blank"}
 
 
-#### Demo/Tools Paper
+#### Demo Paper
 * [CitizenHelper-Adaptive : Expert-augmented Streaming Analytics System for Emergency Services and Humanitarian Organizations](https://www.researchgate.net/profile/Hemant_Purohit2/publication/327848833_CitizenHelper-Adaptive_Expert-augmented_Streaming_Analytics_System_for_Emergency_Services_and_Humanitarian_Organizations/links/5ba9729945851574f7e3f7f4/CitizenHelper-Adaptive-Expert-augmented-Streaming-Analytics-System-for-Emergency-Services-and-Humanitarian-Organizations.pdf){:target="_blank"}
 
 	**Rahul Pandey** and Hemant Purohit. 2018. In Proceedings of 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM).
