@@ -9,6 +9,8 @@ Currently, I am a Graduate Research Assistant at [Humanitarian, Semantics & Info
 
 ### [](#header-3) Recent News
 
+>**[January 2019]** I am serving as a Workshop Co-Chair at [Web Intelligence 2019](http://webintelligence2019.com/organizing-committee-2/){:target="_blank"} conference.
+
 >**[January 2019]** One full paper got accepted under Tools track at [ISCRAM 2019](https://iscram2019.webs.upv.es){:target="_blank"} conference.
 
 >**[December 2018]** Received **Best Paper Award** for paper _"Distributional Semantics Approach to Detect Intent in Twitter Conversations on Sexual Assaults"_ at [Web Intelligence 2018](https://webintelligence2018.com/index.html){:target="_blank"} conference.
